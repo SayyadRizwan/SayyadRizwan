@@ -1,6 +1,6 @@
 # Hi, I'm Rizwan Sayyad
 
-3rd Year B.Tech CSE-AIML Student  
+Final Year B.Tech CSE-AIML Student  
 Interested in Machine Learning, NLP, Deep Learning, and Java DSA  
 Exploring practical AI projects and problem-solving  
 

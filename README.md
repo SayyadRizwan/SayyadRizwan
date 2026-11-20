@@ -1,8 +1,43 @@
+<div align="center">
+
+```text
+                      ..,,:,.                        rizwan@sayyad ──────────────────────────────────────────────
+                 .-=&#%%@@@%%#W&+-.                  OS: .............................................. Windows 11
+               ,*%@@@@@@@@@%@@@@@@%W*~.              Host: .................. G.H. Raisoni College of Engg, Nagpur
+              =@@@@%%@%%%%%%%%%%%%%@@@%*,            Degree: .......................... B.Tech AI & ML (2023-2027)
+            ,W@@%@@@@@@%%%%%%%@%%@@%%%%@@~           IDE: ................................................ VS Code
+            8@@@@@@@@@@@%%%%%%%%%@@@@@@%@@8.
+           .%@@@@@@@@%%@@%@@@@%@@@@@@@@@@@@+         Languages.Programming: .................... Python, Java, SQL
+           :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&         Languages.Frameworks: ............. LangChain, PyTorch, Keras
+           -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,         Languages.Libraries: ............ FAISS, OpenCV, Hugging Face
+           .%@@@@@@@%%######%%%%%@@@%@@@@@@,
+            *@@@@@%W*+~~-~~=++++++*****#@@W          Focus.Core: .......................... ML, NLP, Deep Learning
+            :@@@W*+=------~~~~~~~~~===-*@@:          Focus.GenAI: ....................... RAG, GraphRAG, AI Agents
+          ,=-%@%~~+&&&*+=~-~~~~-----~=~-%&           Learning: ........................... FastAPI, Docker, MLflow
+          &%==%W-+*88#@@%#8+==+*&WWW88&+%~,
+          +8+*8&-=*8&%#*#%#*--8@@%@@W8+**8#          Projects ───────────────────────────────────────────────────
+          .&&***~~~=+****++=:-*88*W8+8+*8W~          ReviewSense-AI: .............. RAG | LangChain, FAISS, Gemini
+           -&+&*=~~~~~~~~~=~-~~-=+*&=--*8=           GateQuery: ...................... GATE CS QA | RAG, Streamlit
+            :+**+==~~~~~==~~-~~~~-~=--=&+.           Oral Cancer Detection: .......... GAN + GraphRAG (Final Year)
+              .=*+==~==~+*~::-==~~~~==+=.            Hand Sign Detection: ................ ESP32-CAM + MobileNetV3
+               -&+===~--=8W&*88~-~===++
+               .&++==*8&++*&&*+=====+&,              Contact ────────────────────────────────────────────────────
+                &*==+*&&8&&&&&88W8=+&-               GitHub: ........................................ SayyadRizwan
+               88*+==++++++*++++++**:                Kaggle: ........................................ sayyadrizwan
+             ,:*W+*&+=+**&8W8&&+++&-                 LeetCode: ..................................... Rizwan_Sayyad
+            ,~-,=&*&8&+=====~=++*+*W,                Email.Personal: ................... sydrizwanahemad@gmail.com
+                                                     LinkedIn: .................................. rizwansayyad0701
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=SayyadRizwan&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
 # Hi, I'm Rizwan Sayyad
 
 Final Year B.Tech CSE-AIML Student  
 Interested in Machine Learning, NLP, Deep Learning, and Java DSA  
-Exploring practical AI projects and problem-solving  
+Exploring practical AI projects and problem-solving
 
 ---
 
@@ -28,12 +63,16 @@ I am also working on building better projects that are not just code-based, but 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20GraphRAG-0A7E8C?style=for-the-badge)
 
 ### Libraries & Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -47,6 +86,23 @@ I am also working on building better projects that are not just code-based, but 
 ---
 
 ## Projects
+
+### GAN-Based Oral Cancer Detection with GraphRAG (Final Year Project)
+
+An AI system for oral cancer detection that combines deep learning image analysis with a Graph-based Retrieval-Augmented Generation (GraphRAG) layer for knowledge-grounded explanations.
+
+- **Detection:** EfficientNet-B3 based classification of oral cancer images
+- **GANs:** CycleGAN / HistoGAN for GAN-based image synthesis and enhancement
+- **GraphRAG:** Neo4j knowledge graph + FAISS vector search for retrieval
+- **LLM:** Gemini for generating context-aware responses
+- **Team:** Lokesh Meshram, Rizwan Sayyad, Nishant Keote, Nihar Koche
+- **Guide:** Prof. Minakshi Ramteke, Department of Artificial Intelligence, GHRCE
+
+**Tech Used:** Python, EfficientNet-B3, CycleGAN, HistoGAN, Neo4j, FAISS, Gemini, GraphRAG
+
+[![Repo](https://img.shields.io/badge/View%20Repo-Oral%20Cancer%20Detection-181717?style=for-the-badge&logo=github)](https://github.com/SayyadRizwan/GAN-based-Oral-Cancer-detection-with-GraphRag)
+
+---
 
 ### Heart Disease Prediction
 
@@ -100,12 +156,20 @@ My current goal is to build strong AI/ML projects, improve my DSA problem-solvin
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="170" alt="Rizwan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SayyadRizwan&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyadRizwan&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## Coding Practice
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rizwan_Sayyad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rizwan_Sayyad/)
 
 ---
-
 
 ## Connect With Me
 

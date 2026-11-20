@@ -1,27 +1,25 @@
-<div align="center">
-
 ```text
-                      ..,,:,.                        rizwan@sayyad ──────────────────────────────────────────────
+                      ..,,:,.                        rizwan@sayyad ────────────────────────────────────────────── 
                  .-=&#%%@@@%%#W&+-.                  OS: .............................................. Windows 11
                ,*%@@@@@@@@@%@@@@@@%W*~.              Host: .................. G.H. Raisoni College of Engg, Nagpur
               =@@@@%%@%%%%%%%%%%%%%@@@%*,            Degree: .......................... B.Tech AI & ML (2023-2027)
             ,W@@%@@@@@@%%%%%%%@%%@@%%%%@@~           IDE: ................................................ VS Code
-            8@@@@@@@@@@@%%%%%%%%%@@@@@@%@@8.
+            8@@@@@@@@@@@%%%%%%%%%@@@@@@%@@8.                                                                      
            .%@@@@@@@@%%@@%@@@@%@@@@@@@@@@@@+         Languages.Programming: .................... Python, Java, SQL
            :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&         Languages.Frameworks: ............. LangChain, PyTorch, Keras
            -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,         Languages.Libraries: ............ FAISS, OpenCV, Hugging Face
-           .%@@@@@@@%%######%%%%%@@@%@@@@@@,
+           .%@@@@@@@%%######%%%%%@@@%@@@@@@,                                                                      
             *@@@@@%W*+~~-~~=++++++*****#@@W          Focus.Core: .......................... ML, NLP, Deep Learning
             :@@@W*+=------~~~~~~~~~===-*@@:          Focus.GenAI: ....................... RAG, GraphRAG, AI Agents
           ,=-%@%~~+&&&*+=~-~~~~-----~=~-%&           Learning: ........................... FastAPI, Docker, MLflow
-          &%==%W-+*88#@@%#8+==+*&WWW88&+%~,
-          +8+*8&-=*8&%#*#%#*--8@@%@@W8+**8#          Projects ───────────────────────────────────────────────────
+          &%==%W-+*88#@@%#8+==+*&WWW88&+%~,                                                                       
+          +8+*8&-=*8&%#*#%#*--8@@%@@W8+**8#          Projects ─────────────────────────────────────────────────── 
           .&&***~~~=+****++=:-*88*W8+8+*8W~          ReviewSense-AI: .............. RAG | LangChain, FAISS, Gemini
            -&+&*=~~~~~~~~~=~-~~-=+*&=--*8=           GateQuery: ...................... GATE CS QA | RAG, Streamlit
             :+**+==~~~~~==~~-~~~~-~=--=&+.           Oral Cancer Detection: .......... GAN + GraphRAG (Final Year)
               .=*+==~==~+*~::-==~~~~==+=.            Hand Sign Detection: ................ ESP32-CAM + MobileNetV3
-               -&+===~--=8W&*88~-~===++
-               .&++==*8&++*&&*+=====+&,              Contact ────────────────────────────────────────────────────
+               -&+===~--=8W&*88~-~===++                                                                           
+               .&++==*8&++*&&*+=====+&,              Contact ──────────────────────────────────────────────────── 
                 &*==+*&&8&&&&&88W8=+&-               GitHub: ........................................ SayyadRizwan
                88*+==++++++*++++++**:                Kaggle: ........................................ sayyadrizwan
              ,:*W+*&+=+**&8W8&&+++&-                 LeetCode: ..................................... Rizwan_Sayyad
@@ -29,9 +27,9 @@
                                                      LinkedIn: .................................. rizwansayyad0701
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=SayyadRizwan&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SayyadRizwan&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 # Hi, I'm Rizwan Sayyad
 

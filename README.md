@@ -93,8 +93,7 @@ An AI system for oral cancer detection that combines deep learning image analysi
 - **GANs:** CycleGAN / HistoGAN for GAN-based image synthesis and enhancement
 - **GraphRAG:** Neo4j knowledge graph + FAISS vector search for retrieval
 - **LLM:** Gemini for generating context-aware responses
-- **Team:** Lokesh Meshram, Rizwan Sayyad, Nishant Keote, Nihar Koche
-- **Guide:** Prof. Minakshi Ramteke, Department of Artificial Intelligence, GHRCE
+
 
 **Tech Used:** Python, EfficientNet-B3, CycleGAN, HistoGAN, Neo4j, FAISS, Gemini, GraphRAG
 
